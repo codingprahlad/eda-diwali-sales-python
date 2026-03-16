@@ -85,6 +85,6 @@ The dataset contains Diwali sales transaction data with features such as:
 **Prahlad Somapurkar**  
 Aspiring Data Analyst
 
----
 
-⭐ If you like this project, give it a star!
+
+
